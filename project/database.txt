@@ -1,0 +1,441 @@
+1#general#medium
+Which Apollo 11 astronaut did not set foot on the moon?
+a) Neil A. Armstrong
+b) Michael Collins
+c) Edwin Aldrin
+(enter 'a', 'b' or 'c')
+#
+B
+3#sport#hard
+Which national team introduced 'Total Football' at the
+1974 FIFA World Cup in Germany?
+#
+Holland
+4#general#medium
+What is the common name for Japanese horseradish?
+#
+Wasabi
+5#science#medium
+What is the name of the network of computers from which the
+Internet has emerged?
+#
+Arpanet
+6#science#hard
+#
+1998
+7#science#easy
+In computing what is RAM short for?
+#
+Random access memory
+8#general#easy
+In which Nintendo DS game do you have to raise a puppy
+as well as possible?
+#
+Nintendogs
+9#geography#hard
+What is the capital of Turkey?
+#
+Ankara
+10#geography#easy
+What is the national animal of China?
+#
+Panda
+11#geography#hard
+What is the noisiest city in the world?
+#
+Hong kong
+12#geography#hard
+What is the name of the desert area in Mexico?
+#
+Sonora
+13#geography#medium
+What is a very cold part of Russia?
+#
+Siberia
+14#geography#easy
+How many continents are there?
+#
+7
+15#geography#hard
+On which Italian island is Palermo?
+#
+Sicily
+16#geography#easy
+How many time zones are there in the world?
+#
+24
+17#geography#medium
+Which is the largest desert on earth?
+#
+Sahara
+18#geography#hard
+Which river is flowing through Rome?
+#
+Tiber
+19#geography#hard
+Which country did once have the name Rhodesia?
+#
+Zimbabwe
+20#geography#medium
+What island, which belonged to Denmark, was independent in 1944?
+#
+Iceland
+21#geography#medium
+What is the largest state of the United States?
+#
+Alaska
+22#geography#hard
+On which continent can you visit Sierra Leone?
+#
+Africa
+23#geography#hard
+What is the name of the European river which flows through six different
+countries?
+#
+Donau
+24#geography#hard
+What is the name of the longest river in Europe?
+#
+Wolga
+25#geography#hard
+Through which capital does the Liffey river flow?
+#
+Dublin
+26#geography#hard
+What is the second largest country in Europe after Russia?
+#
+France
+27#geography#medium
+What is the capital of the American state Hawaii?
+#
+Honolulu
+28#geography#easy
+What do the Japanese people call their own country?
+#
+Nippon
+29#geography#hard
+In which country is Krakow located?
+#
+Poland
+30#geography#medium
+What is the largest city in Canada?
+#
+Toronto
+31#geography#medium
+What is the capital city of Australia ?
+#
+Canberra
+32#geography#medium
+As of 2017, which has the highest population:
+a) London
+b) Hong Kong
+#
+A
+33#science#medium
+What in computer language do the initials ISDN stand for?
+#
+Integrated services digital network
+34#science#hard
+What is the name of the medical apparatus was invented by
+a French doctor Rene Theophile Hyacinthe Leanne, in 1816?
+#
+Stethoscope
+35#science#medium
+In what type of engine is fuel ignited by compression?
+#
+Diesel
+36#science#hard
+What word means the bending of light when passing through a lens?
+#
+Refraction
+37#science#easy
+In which layer of the atmosphere does the ozone layer occur?
+#
+Stratosphere
+38#science#hard
+Which of the following did Benjamin Hall invent in 1900:
+a) the tractor
+b) the safety pin
+c) the zipper
+#
+A
+39#science#easy
+Which element has the symbol Au?
+#
+Gold
+40#science#easy
+What is measured in Hertz?
+#
+Frequency
+41#science#hard
+Which French educationalist perfected a system of
+reading for the blind?
+#
+Louis braille
+42#science#easy
+Which among these colours is not a color of the rainbow?
+a) red
+b) orange
+c) yellow
+d) magenta
+e) green
+#
+D
+43#science#easy
+What is the chemical symbol for lead?
+#
+Pb
+44#science#hard
+What is the name of the science that deals with drugs
+and their effects?
+#
+Pharmacology
+45#science#medium
+What name is given to an instrument used to measure
+the pressure of fluids?
+#
+Manometer
+46#science#easy
+Which metallic element has the chemical symbol W?
+#
+Tungsten
+47#science#medium
+What name is given to a substance which accelerates
+a reaction without taking part in it?
+#
+Catalyst
+48#science#medium
+What is the scientific name for the white of an egg?
+#
+Albumen
+49#sport#hard
+Which was the first British football club to win
+the European Cup?
+#
+Celtic
+50#sport#medium
+Which country won the 6th European Football Championship for Women?
+#
+Norway
+51#sport#hard
+Name the German soccer star who led West Germany to victory
+over Holland in the World Cup, then managed the team that
+defeated Argentina in 1990
+#
+Beckenbauer
+52#general#easy
+Which religious leader is head of state of the Vatican?
+#
+Pope
+53#geography#medium
+Which from Bombay or Tokyo do have the higher population?
+a) Bombay
+b) Tokyo
+#
+A
+54#geography#medium
+What is the name of the Egyptian canal linking the
+Red Sea and the Mediterranean?
+#
+Suez
+55#geography#medium
+Which ocean is the world's deepest?
+#
+Pacific
+56#geography#easy
+Mount Kilimanjaro is the highest point of which continent?
+#
+Africa
+57#geography#easy
+Eurostar trains run from London to which Belgian city?
+#
+Brussels
+58#geography#medium
+In which country is Cologne?
+#
+Germany
+59#geography#hard
+Which one of those two cities have the higher population?
+a) London
+b) Rome
+#
+A
+60#geography#hard
+In which city would you find the Parthenon?
+#
+Athens
+61#geography#hard
+Sweden is a:
+a) kingdom
+b) republic
+#
+A
+62#geography#medium
+In which country is Calgary?
+#
+Canada
+63#general#easy
+Which fictional city is the home of Batman?
+#
+Gotham
+64#science#easy
+Spinach is high in which mineral?
+#
+Iron
+65#science#easy
+What is a Geiger Counter used to detect?
+#
+Radiation
+66#general#easy
+In the film Babe, what type of animal was Babe?
+#
+Pig
+67#sport#medium
+What was Mohammed Ali's birth name?
+#
+Cassius clay
+68#science#hard
+Which planet is the closest to Earth?
+#
+Venus
+69#science#easy
+What is the name of the tallest mammal?
+#
+Girafe
+70#geography#medium
+Mount Everest is found in which mountain range?
+#
+Himalayas
+71#general#hard
+How many strings does a violin have?
+#
+4
+72#general#easy
+What was the Hunchback of Notre Dame's name?
+#
+Quasimodo
+73#general#easy
+What color is the circle on the Japanese national flag?
+#
+Red
+74#general#medium
+What is the family name of the author of the "Harry Potter" books?
+#
+Rowling
+75#science#easy
+How many sides does an octagon have?
+#
+8
+76#general#easy
+What is the name of the city where the cartoon family The Simpsons live?
+#
+Springfield
+77#science#easy
+How many colours are there in a rainbow?
+#
+7
+78#science#easy
+How many degrees are found in a circle?
+#
+360
+79#general#easy
+How many squares are there on a chess board?
+#
+64
+80#general#hard
+Name the historical prince whose name was used by
+Bram Stoker in his famous novel
+#
+Dracula
+81#general#easy
+What is the family name of the author who wrote a series of
+novels about orcs, hobbits, goblins and elves?
+#
+Tolkien
+82#science#medium
+Which hormone controls the supply of sugar between muscles and blood?
+#
+Insulin
+83#general#easy
+In Japanese, what is the word for goodbye?
+#
+Sayonara
+84#general#easy
+Which fictional character was also known as Lord Greystoke?
+#
+Tarzan
+85#general#easy
+What is the Chinese system of medicine called, which uses
+slender needles inserted into the body at specific points?
+#
+Acupuncture
+86#science#easy
+Which branch of mathematics deals with the sides and angles
+of triangles, and their relationship to each other?
+#
+Trigonometry
+87#science#easy
+A cube has how many edges?
+#
+12
+88#general#medium
+How many times has Donald Trump been married?
+#
+3
+89#sport#medium
+What is the family name of the top goalscorer at the Euros
+to date (data valid as of 2012)?
+#
+Platini
+90#sport#hard
+How many goals has Alan Shearer scored in European
+Championship tournaments in total?
+#
+11
+91#sport#medium
+What nationality was the coach of Greece when they won Euro 2004?
+#
+German
+92#sport#hard
+Which company supplied the Euro 2012 matchball?
+#
+Adidas
+93#sport#medium
+Which team knocked England out of Euro 2004 at
+the quarter-final stages?
+#
+Portugal
+94#sport#easy
+Which sports playing area is 2.7 metres by 1.5 metres?
+#
+Table tennis
+95#sport#easy
+Which sport do the Oklahoma City Thunder play?
+#
+Basketball
+96#sport#medium
+Which racket sport made its Olympic debut in 1992?
+#
+Badminton
+97#sport#easy
+How many colours make up the Olympic rings?
+#
+5
+98#sport#medium
+Which team are known as the Gunners?
+#
+Arsenal
+99#sport#hard
+Which team first won an FA Cup semifinal on a penalty shoot-out?
+#
+Liverpool
+100#sport#easy
+Michael Schumacher drove for eleven years with which constructor?
+#
+Ferrari
+120#sport#hard
+a
+bb
+ccc
+#
+A

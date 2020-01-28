@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\C++\project_1\project\project\project\Source.cpp(170,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++\project_1\project\project\project\Source.cpp(188,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++\project_1\project\project\project\Source.cpp(260,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++\project_1\project\project\project\Source.cpp(396,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++\project_1\project\project\project\Source.cpp(412,23): warning C4018: '<': signed/unsigned mismatch
+  project.vcxproj -> E:\C++\project_1\project\project\Debug\project.exe
